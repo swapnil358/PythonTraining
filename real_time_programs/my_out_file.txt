@@ -1,0 +1,12 @@
+10
+Python
+10
+Python
+10
+Python
+20
+Java
+100
+200
+300
+400
