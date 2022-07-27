@@ -7,12 +7,12 @@ Core Data Types
 
 2. Strings :  There is a option to store  collection of characters like name, email etc
                     But we dont know how?
-                    - IMMUTABLE 
-                    - automatically index will be assigned to each character                    
+                    - IMMUTABLE
+                    - automatically index will be assigned to each character
 
 3. list : There is a option to store  collection of elements like list of names, list of email-ids etc
                     But we dont know how?
-                    - MUTABLE : After creating the list, throught the program,
+                    - MUTABLE : After creating the list, throughout the program,
                     we CAN modify the list(we can add element / we can remove element / we can update element / )
                     - automatically index will be assigned to each value
 
@@ -38,8 +38,8 @@ Core Data Types
                     - Only we can store IMMUTABLE values (Objects)
                     - It keeps UNIQUE. It removes duplicates.
                     - to get values, we can use loops else we can convert to list
-                    
-7. frozenset : IMMUTABLE set                                  
+
+7. frozenset : IMMUTABLE set
 
 we can convert from one collection to other collection like set to list, list to set etc
 """
